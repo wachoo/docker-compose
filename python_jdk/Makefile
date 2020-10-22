@@ -1,4 +1,4 @@
-IMAGE_NAME = wachoo/jre8_py3
+IMAGE_NAME = wachoo/jdk8_py3
 IMAGE_VERSION = latest
 CONTAINER_NAMES = jdk8_py3-${IMAGE_VERSION}-0
 
